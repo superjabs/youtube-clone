@@ -11,9 +11,9 @@ Learn and Practive React by made Youtube Clone with API
 
 ## References
 
-[Tailwind CSS](https://tailwindcss.com)
-[icons](https://www.npmjs.com/package/@heroicons/react)
-[axios](https://github.com/axios/axios)
-[YT API](https://rapidapi.com/ytdlfree/api/youtube-v31)
-[React](https://reactjs.org)
-[React Video Player](https://www.npmjs.com/package/@wbe/react-video-player)
+- [Tailwind CSS](https://tailwindcss.com)
+- [icons](https://www.npmjs.com/package/@heroicons/react)
+- [axios](https://github.com/axios/axios)
+- [YT API](https://rapidapi.com/ytdlfree/api/youtube-v31)
+- [React](https://reactjs.org)
+- [React Video Player](https://www.npmjs.com/package/@wbe/react-video-player)
